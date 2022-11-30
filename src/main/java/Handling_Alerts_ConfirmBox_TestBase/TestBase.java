@@ -28,7 +28,7 @@ public class TestBase {
 
 		prop = new Properties();
 		FileInputStream file = new FileInputStream(
-				"C:\\Users\\mdsohil\\eclipse-workspace\\Alert_Handling\\src\\main\\java\\Handling_Alerts_ConfirmBox_Properties\\config.properties");
+				"C:\\Users\\mdsohil\\git\\AlertHandling\\src\\main\\java\\Handling_Alerts_ConfirmBox_Properties\\config.properties");
 		prop.load(file);
 
 	}
